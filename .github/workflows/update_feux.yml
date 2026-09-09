@@ -1,4 +1,4 @@
-name: Auto Update Feux de Forêt — Temps Réel
+﻿name: Auto Update Feux de Forêt — Temps Réel
 
 on:
   workflow_dispatch:           # déclenché par cron-job.org toutes les 5 min
@@ -47,7 +47,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Feux Bot"
-          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/monsieurmeteo/feux-foret-vercel.git"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/mto-user84925/feux-foret-vercel.git"
           git add index.html Rapport_Feux_de_Foret_Temps_Reel.pdf data/ || true
           git diff --staged --quiet && echo "Rien à committer" && exit 0
           git commit -m "🔥 Auto-refresh feux $(date -u +'%H:%M UTC') [skip ci]"
@@ -66,3 +66,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
