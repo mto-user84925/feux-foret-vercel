@@ -6,17 +6,17 @@
       "commune": "Sain-Bel",
       "dept": "69",
       "url": "/rhone-69/sain-bel-29-09-2026-12883/",
-      "dateIso": "2026-09-29T09:36:18.819Z",
-      "timeAgo": "Mise à jour il y a 2 minutes",
+      "dateIso": "2026-09-29T09:51:17.997Z",
+      "timeAgo": "Mise à jour il y a 1 minute",
       "enCours": true,
       "epingle": false,
       "thumbnail": "https://fdfdata.fr/storage/signalements/12883/article/hero_notmark.jpg",
       "mcCount": 2,
       "mediaCount": 0,
       "createdIso": "2026-09-29T09:22:01.000Z",
-      "createdLabel": "il y a 16 min",
-      "updatedIso": "2026-09-29T09:36:18.819Z",
-      "updatedLabel": "il y a 2 min",
+      "createdLabel": "il y a 30 min",
+      "updatedIso": "2026-09-29T09:51:17.997Z",
+      "updatedLabel": "il y a 1 min",
       "date_signal": "2026-09-29T09:22:01.000Z",
       "date_meta": "29 septembre 2026 à 11h22 · mise à jour à 11h24",
       "etat_feu": "attaque",
@@ -27,7 +27,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12883/article/hero.jpg",
       "region": "Auvergne-Rhône-Alpes",
-      "minutes_ago": 18,
+      "minutes_ago": 30,
       "detect_time_fr": "11h22",
       "is_under_1h": true,
       "is_recent": true,
@@ -39,39 +39,39 @@
       "pelicandrome_eta": "20 min",
       "meteociel_station": "Sain-bel",
       "meteociel_dist": 0.7,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 22.7,
-        "humidity_pct": 56.0,
+        "temp_c": 23.7,
+        "humidity_pct": 54.0,
         "wind_speed_kmh": 12,
         "wind_gusts_kmh": 22,
-        "wind_origin": "E",
-        "plume_arrow": "⬅️",
-        "plume_dir": "Ouest",
-        "plume_deg": 270,
+        "wind_origin": "SSE",
+        "plume_arrow": "⬆️",
+        "plume_dir": "Nord",
+        "plume_deg": 337.5,
         "spread_risk": "🟡 MODÉRÉ",
         "spread_risk_color": "#D97706",
-        "fwi_score": 4.1,
+        "fwi_score": 4.4,
         "is_obs": true
       },
       "downwind_exposure": [
         {
-          "commune": "Axe Ouest (0-5 km)",
-          "dept": "",
-          "dist_km": 5.0,
-          "eta_smoke": "14 min",
-          "is_sector": true
-        },
-        {
-          "commune": "Axe Ouest (5-15 km)",
-          "dept": "",
-          "dist_km": 15.0,
-          "eta_smoke": "41 min",
-          "is_sector": true
+          "commune": "Ronno",
+          "dept": "69",
+          "dist_km": 22.3,
+          "eta_smoke": "61 min",
+          "angle_diff": 25.214328238674625
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 23.7,
+          "hum": 54.0
+        },
         {
           "time": "11h40",
           "wind": 12,
@@ -104,7 +104,7 @@
       "createdIso": "2026-09-29T03:07:06.000Z",
       "createdLabel": "il y a 6 h",
       "updatedIso": "2026-09-29T08:53:26.687Z",
-      "updatedLabel": "il y a 46 min",
+      "updatedLabel": "il y a 59 min",
       "date_signal": "2026-09-29T03:07:06.000Z",
       "date_meta": "29 septembre 2026 à 05h07 · mise à jour à 10h53",
       "etat_feu": "eteint",
@@ -115,7 +115,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12873/article/hero.jpg",
       "region": "Auvergne-Rhône-Alpes",
-      "minutes_ago": 392,
+      "minutes_ago": 405,
       "detect_time_fr": "05h07",
       "is_under_1h": false,
       "is_recent": false,
@@ -127,19 +127,19 @@
       "pelicandrome_eta": "23 min",
       "meteociel_station": "Les Sauvages",
       "meteociel_dist": 2.6,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 20.5,
+        "temp_c": 20.7,
         "humidity_pct": 46.0,
-        "wind_speed_kmh": 41,
-        "wind_gusts_kmh": 56,
+        "wind_speed_kmh": 36,
+        "wind_gusts_kmh": 52,
         "wind_origin": "SSE",
         "plume_arrow": "⬆️",
         "plume_dir": "Nord",
         "plume_deg": 337.5,
         "spread_risk": "🚨 EXTRÊME",
         "spread_risk_color": "#DC2626",
-        "fwi_score": 25.0,
+        "fwi_score": 23.4,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -147,12 +147,19 @@
           "commune": "Montagny",
           "dept": "42",
           "dist_km": 13.3,
-          "eta_smoke": "14 min",
+          "eta_smoke": "15 min",
           "angle_diff": 28.443979612539806
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 36,
+          "gusts": 52,
+          "temp": 20.7,
+          "hum": 46.0
+        },
         {
           "time": "11h40",
           "wind": 41,
@@ -229,13 +236,6 @@
           "gusts": 40,
           "temp": 17.0,
           "hum": 67.0
-        },
-        {
-          "time": "09h45",
-          "wind": 30,
-          "gusts": 39,
-          "temp": 16.8,
-          "hum": 67.0
         }
       ]
     },
@@ -253,7 +253,7 @@
       "mcCount": 11,
       "mediaCount": 11,
       "createdIso": "2026-09-28T15:42:41.000Z",
-      "createdLabel": "il y a 17 h",
+      "createdLabel": "il y a 18 h",
       "updatedIso": "2026-09-28T20:30:34.244Z",
       "updatedLabel": "il y a 13 h",
       "date_signal": "2026-09-28T15:42:41.000Z",
@@ -266,7 +266,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12855/article/hero.jpg",
       "region": "Auvergne-Rhône-Alpes",
-      "minutes_ago": 1077,
+      "minutes_ago": 1089,
       "detect_time_fr": "17h42",
       "is_under_1h": false,
       "is_recent": false,
@@ -278,19 +278,19 @@
       "pelicandrome_eta": "19 min",
       "meteociel_station": "Feurs",
       "meteociel_dist": 7.7,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 24.4,
+        "temp_c": 24.7,
         "humidity_pct": 45.0,
-        "wind_speed_kmh": 5,
-        "wind_gusts_kmh": 15,
+        "wind_speed_kmh": 12,
+        "wind_gusts_kmh": 22,
         "wind_origin": "S",
         "plume_arrow": "⬆️",
         "plume_dir": "Nord",
         "plume_deg": 0,
         "spread_risk": "🔴 ÉLEVÉ",
         "spread_risk_color": "#EA580C",
-        "fwi_score": 11.9,
+        "fwi_score": 12.1,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -298,19 +298,26 @@
           "commune": "Axe Nord (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "20 min",
+          "eta_smoke": "14 min",
           "is_sector": true
         },
         {
           "commune": "Axe Nord (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "60 min",
+          "eta_smoke": "41 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 24.7,
+          "hum": 45.0
+        },
         {
           "time": "11h40",
           "wind": 5,
@@ -387,13 +394,6 @@
           "gusts": 22,
           "temp": 20.5,
           "hum": 45.0
-        },
-        {
-          "time": "09h45",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 19.7,
-          "hum": 45.0
         }
       ]
     },
@@ -424,7 +424,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12840/article/hero.jpg",
       "region": "PACA",
-      "minutes_ago": 1160,
+      "minutes_ago": 1172,
       "detect_time_fr": "16h19",
       "is_under_1h": false,
       "is_recent": false,
@@ -436,19 +436,19 @@
       "pelicandrome_eta": "10 min",
       "meteociel_station": "Orange",
       "meteociel_dist": 10.5,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 25.8,
-        "humidity_pct": 44.0,
+        "temp_c": 26.7,
+        "humidity_pct": 42.0,
         "wind_speed_kmh": 15,
-        "wind_gusts_kmh": 27,
-        "wind_origin": "S",
-        "plume_arrow": "⬆️",
-        "plume_dir": "Nord",
-        "plume_deg": 0,
+        "wind_gusts_kmh": 23,
+        "wind_origin": "SSO",
+        "plume_arrow": "↗️",
+        "plume_dir": "Nord-Est",
+        "plume_deg": 22.5,
         "spread_risk": "🔴 ÉLEVÉ",
         "spread_risk_color": "#EA580C",
-        "fwi_score": 15.8,
+        "fwi_score": 14.6,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -456,19 +456,26 @@
           "commune": "Axe Nord (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "11 min",
+          "eta_smoke": "13 min",
           "is_sector": true
         },
         {
           "commune": "Axe Nord (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "33 min",
+          "eta_smoke": "39 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 15,
+          "gusts": 23,
+          "temp": 26.7,
+          "hum": 42.0
+        },
         {
           "time": "11h40",
           "wind": 15,
@@ -545,13 +552,6 @@
           "gusts": 22,
           "temp": 18.6,
           "hum": 73.0
-        },
-        {
-          "time": "09h45",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 17.7,
-          "hum": 75.0
         }
       ]
     },
@@ -582,7 +582,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12836/article/hero.jpg",
       "region": "Nouvelle-Aquitaine",
-      "minutes_ago": 1202,
+      "minutes_ago": 1215,
       "detect_time_fr": "15h37",
       "is_under_1h": false,
       "is_recent": false,
@@ -594,39 +594,46 @@
       "pelicandrome_eta": "7 min",
       "meteociel_station": "St Gervais",
       "meteociel_dist": 14.7,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 25.0,
-        "humidity_pct": 71.0,
-        "wind_speed_kmh": 19,
-        "wind_gusts_kmh": 28,
-        "wind_origin": "S",
+        "temp_c": 25.7,
+        "humidity_pct": 69.0,
+        "wind_speed_kmh": 15,
+        "wind_gusts_kmh": 26,
+        "wind_origin": "SSE",
         "plume_arrow": "⬆️",
         "plume_dir": "Nord",
-        "plume_deg": 0,
+        "plume_deg": 337.5,
         "spread_risk": "🔴 ÉLEVÉ",
         "spread_risk_color": "#EA580C",
-        "fwi_score": 9.9,
+        "fwi_score": 9.7,
         "is_obs": true
       },
       "downwind_exposure": [
         {
-          "commune": "Axe Nord (0-5 km)",
+          "commune": "Axe Nord-Ouest (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "11 min",
+          "eta_smoke": "12 min",
           "is_sector": true
         },
         {
-          "commune": "Axe Nord (5-15 km)",
+          "commune": "Axe Nord-Ouest (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "32 min",
+          "eta_smoke": "35 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 15,
+          "gusts": 26,
+          "temp": 25.7,
+          "hum": 69.0
+        },
         {
           "time": "11h40",
           "wind": 19,
@@ -703,13 +710,6 @@
           "gusts": 16,
           "temp": 21.9,
           "hum": 82.0
-        },
-        {
-          "time": "09h45",
-          "wind": 10,
-          "gusts": 17,
-          "temp": 20.9,
-          "hum": 86.0
         }
       ]
     },
@@ -720,7 +720,7 @@
       "dept": "33",
       "url": "/gironde-33/maransin-28-09-2026-12833/",
       "dateIso": "2026-09-29T08:49:15.311Z",
-      "timeAgo": "Mise à jour il y a 49 minutes",
+      "timeAgo": "Mise à jour il y a 1 heure",
       "enCours": true,
       "epingle": false,
       "thumbnail": "https://fdfdata.fr/storage/signalements/12833/article/hero_notmark.jpg",
@@ -729,7 +729,7 @@
       "createdIso": "2026-09-28T13:31:02.000Z",
       "createdLabel": "il y a 20 h",
       "updatedIso": "2026-09-29T08:49:15.311Z",
-      "updatedLabel": "il y a 49 min",
+      "updatedLabel": "il y a 1 h",
       "date_signal": "2026-09-28T13:31:02.000Z",
       "date_meta": "28 septembre 2026 à 15h31 · mise à jour à 00h24",
       "etat_feu": "fixe",
@@ -740,7 +740,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12833/article/hero.jpg",
       "region": "Nouvelle-Aquitaine",
-      "minutes_ago": 1209,
+      "minutes_ago": 1221,
       "detect_time_fr": "15h31",
       "is_under_1h": false,
       "is_recent": false,
@@ -752,19 +752,19 @@
       "pelicandrome_eta": "9 min",
       "meteociel_station": "St Emilion",
       "meteociel_dist": 16.4,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
         "temp_c": 25.5,
         "humidity_pct": 65.0,
-        "wind_speed_kmh": 19,
-        "wind_gusts_kmh": 31,
+        "wind_speed_kmh": 21,
+        "wind_gusts_kmh": 30,
         "wind_origin": "SSE",
         "plume_arrow": "⬆️",
         "plume_dir": "Nord",
         "plume_deg": 337.5,
         "spread_risk": "🔴 ÉLEVÉ",
         "spread_risk_color": "#EA580C",
-        "fwi_score": 12.2,
+        "fwi_score": 11.8,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -779,12 +779,19 @@
           "commune": "Axe Nord-Ouest (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "29 min",
+          "eta_smoke": "30 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 21,
+          "gusts": 30,
+          "temp": 25.5,
+          "hum": 65.0
+        },
         {
           "time": "11h40",
           "wind": 19,
@@ -861,13 +868,6 @@
           "gusts": 22,
           "temp": 22.5,
           "hum": 72.0
-        },
-        {
-          "time": "09h45",
-          "wind": 9,
-          "gusts": 14,
-          "temp": 21.3,
-          "hum": 77.0
         }
       ]
     },
@@ -898,7 +898,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12832/article/hero.jpg",
       "region": "Auvergne-Rhône-Alpes",
-      "minutes_ago": 1224,
+      "minutes_ago": 1237,
       "detect_time_fr": "15h15",
       "is_under_1h": false,
       "is_recent": false,
@@ -910,39 +910,46 @@
       "pelicandrome_eta": "25 min",
       "meteociel_station": "Montagny",
       "meteociel_dist": 2.9,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 24.3,
+        "temp_c": 23.8,
         "humidity_pct": 45.0,
-        "wind_speed_kmh": 6,
-        "wind_gusts_kmh": 26,
-        "wind_origin": "E",
-        "plume_arrow": "⬅️",
-        "plume_dir": "Ouest",
-        "plume_deg": 270,
+        "wind_speed_kmh": 11,
+        "wind_gusts_kmh": 35,
+        "wind_origin": "S",
+        "plume_arrow": "⬆️",
+        "plume_dir": "Nord",
+        "plume_deg": 0,
         "spread_risk": "🔴 ÉLEVÉ",
         "spread_risk_color": "#EA580C",
-        "fwi_score": 11.9,
+        "fwi_score": 11.6,
         "is_obs": true
       },
       "downwind_exposure": [
         {
-          "commune": "Axe Ouest (0-5 km)",
+          "commune": "Axe Nord (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "12 min",
+          "eta_smoke": "9 min",
           "is_sector": true
         },
         {
-          "commune": "Axe Ouest (5-15 km)",
+          "commune": "Axe Nord (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "35 min",
+          "eta_smoke": "26 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 11,
+          "gusts": 35,
+          "temp": 23.8,
+          "hum": 45.0
+        },
         {
           "time": "11h40",
           "wind": 6,
@@ -1019,13 +1026,6 @@
           "gusts": 23,
           "temp": 20.7,
           "hum": 45.0
-        },
-        {
-          "time": "09h45",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 20.4,
-          "hum": 45.0
         }
       ]
     },
@@ -1056,7 +1056,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12804/article/hero.jpg",
       "region": "Auvergne-Rhône-Alpes",
-      "minutes_ago": 2403,
+      "minutes_ago": 2415,
       "detect_time_fr": "19h36",
       "is_under_1h": false,
       "is_recent": false,
@@ -1068,19 +1068,19 @@
       "pelicandrome_eta": "8 min",
       "meteociel_station": "St-agreve Rad",
       "meteociel_dist": 2.1,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 17.3,
-        "humidity_pct": 72.0,
-        "wind_speed_kmh": 26,
-        "wind_gusts_kmh": 44,
+        "temp_c": 17.5,
+        "humidity_pct": 70.0,
+        "wind_speed_kmh": 27,
+        "wind_gusts_kmh": 50,
         "wind_origin": "S",
         "plume_arrow": "⬆️",
         "plume_dir": "Nord",
         "plume_deg": 0,
         "spread_risk": "🚨 EXTRÊME",
         "spread_risk_color": "#DC2626",
-        "fwi_score": 10.6,
+        "fwi_score": 12.5,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -1088,19 +1088,26 @@
           "commune": "Axe Nord (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "7 min",
+          "eta_smoke": "6 min",
           "is_sector": true
         },
         {
           "commune": "Axe Nord (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "20 min",
+          "eta_smoke": "18 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 27,
+          "gusts": 50,
+          "temp": 17.5,
+          "hum": 70.0
+        },
         {
           "time": "11h40",
           "wind": 26,
@@ -1177,13 +1184,6 @@
           "gusts": 33,
           "temp": 16.0,
           "hum": 75.0
-        },
-        {
-          "time": "09h45",
-          "wind": 19,
-          "gusts": 38,
-          "temp": 15.6,
-          "hum": 75.0
         }
       ]
     },
@@ -1214,7 +1214,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12722/article/hero.jpg",
       "region": "Auvergne-Rhône-Alpes",
-      "minutes_ago": 4103,
+      "minutes_ago": 4116,
       "detect_time_fr": "15h16",
       "is_under_1h": false,
       "is_recent": false,
@@ -1226,19 +1226,19 @@
       "pelicandrome_eta": "4 min",
       "meteociel_station": "Sablieres Oara",
       "meteociel_dist": 5.4,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 19.3,
-        "humidity_pct": 78.0,
-        "wind_speed_kmh": 6,
-        "wind_gusts_kmh": 22,
+        "temp_c": 19.6,
+        "humidity_pct": 75.0,
+        "wind_speed_kmh": 5,
+        "wind_gusts_kmh": 17,
         "wind_origin": "ESE",
         "plume_arrow": "↖️",
         "plume_dir": "Nord-Ouest",
         "plume_deg": 292.5,
         "spread_risk": "🟡 MODÉRÉ",
         "spread_risk_color": "#D97706",
-        "fwi_score": 5.4,
+        "fwi_score": 4.4,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -1246,19 +1246,26 @@
           "commune": "Axe Ouest (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "14 min",
+          "eta_smoke": "18 min",
           "is_sector": true
         },
         {
           "commune": "Axe Ouest (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "41 min",
+          "eta_smoke": "53 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 5,
+          "gusts": 17,
+          "temp": 19.6,
+          "hum": 75.0
+        },
         {
           "time": "11h40",
           "wind": 6,
@@ -1335,13 +1342,6 @@
           "gusts": 22,
           "temp": 18.6,
           "hum": 80.0
-        },
-        {
-          "time": "09h45",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 18.5,
-          "hum": 81.0
         }
       ]
     },
@@ -1372,7 +1372,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12662/article/hero.jpg",
       "region": "Occitanie",
-      "minutes_ago": 5502,
+      "minutes_ago": 5514,
       "detect_time_fr": "15h57",
       "is_under_1h": false,
       "is_recent": false,
@@ -1384,19 +1384,19 @@
       "pelicandrome_eta": "13 min",
       "meteociel_station": "Cos",
       "meteociel_dist": 7.7,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 20.2,
-        "humidity_pct": 77.0,
+        "temp_c": 20.6,
+        "humidity_pct": 73.0,
         "wind_speed_kmh": 12,
         "wind_gusts_kmh": 22,
-        "wind_origin": "E",
-        "plume_arrow": "⬅️",
-        "plume_dir": "Ouest",
-        "plume_deg": 270,
+        "wind_origin": "ESE",
+        "plume_arrow": "↖️",
+        "plume_dir": "Nord-Ouest",
+        "plume_deg": 292.5,
         "spread_risk": "🟢 FAIBLE",
         "spread_risk_color": "#059669",
-        "fwi_score": 2.1,
+        "fwi_score": 1.7,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -1417,6 +1417,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 20.6,
+          "hum": 73.0
+        },
         {
           "time": "11h40",
           "wind": 12,
@@ -1493,13 +1500,6 @@
           "gusts": 22,
           "temp": 17.9,
           "hum": 88.0
-        },
-        {
-          "time": "09h45",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 17.8,
-          "hum": 90.0
         }
       ]
     },
@@ -1530,7 +1530,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12600/article/hero.jpg",
       "region": "Occitanie",
-      "minutes_ago": 7091,
+      "minutes_ago": 7103,
       "detect_time_fr": "13h28",
       "is_under_1h": false,
       "is_recent": false,
@@ -1542,39 +1542,46 @@
       "pelicandrome_eta": "11 min",
       "meteociel_station": "Camurac",
       "meteociel_dist": 11.5,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 15.7,
-        "humidity_pct": 76.0,
-        "wind_speed_kmh": 6,
-        "wind_gusts_kmh": 13,
-        "wind_origin": "SE",
-        "plume_arrow": "↖️",
-        "plume_dir": "Nord-Ouest",
-        "plume_deg": 315,
-        "spread_risk": "🟢 FAIBLE",
-        "spread_risk_color": "#059669",
-        "fwi_score": 2.7,
+        "temp_c": 16.8,
+        "humidity_pct": 68.0,
+        "wind_speed_kmh": 25,
+        "wind_gusts_kmh": 37,
+        "wind_origin": "N/A",
+        "plume_arrow": "➡️",
+        "plume_dir": "N/A",
+        "plume_deg": 90,
+        "spread_risk": "🔴 ÉLEVÉ",
+        "spread_risk_color": "#EA580C",
+        "fwi_score": 9.1,
         "is_obs": true
       },
       "downwind_exposure": [
         {
-          "commune": "Axe Nord-Ouest (0-5 km)",
+          "commune": "Axe Est (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "23 min",
+          "eta_smoke": "8 min",
           "is_sector": true
         },
         {
-          "commune": "Axe Nord-Ouest (5-15 km)",
+          "commune": "Axe Est (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "69 min",
+          "eta_smoke": "24 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 25,
+          "gusts": 37,
+          "temp": 16.8,
+          "hum": 68.0
+        },
         {
           "time": "11h40",
           "wind": 6,
@@ -1651,13 +1658,6 @@
           "gusts": 22,
           "temp": 14.2,
           "hum": 76.0
-        },
-        {
-          "time": "09h45",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 13.6,
-          "hum": 67.0
         }
       ]
     },
@@ -1688,7 +1688,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12565/article/hero.jpg",
       "region": "Occitanie",
-      "minutes_ago": 8359,
+      "minutes_ago": 8372,
       "detect_time_fr": "16h20",
       "is_under_1h": false,
       "is_recent": false,
@@ -1700,39 +1700,46 @@
       "pelicandrome_eta": "13 min",
       "meteociel_station": "Aston",
       "meteociel_dist": 5.2,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 16.5,
-        "humidity_pct": 59.0,
-        "wind_speed_kmh": 16,
-        "wind_gusts_kmh": 32,
-        "wind_origin": "SSO",
+        "temp_c": 16.8,
+        "humidity_pct": 60.0,
+        "wind_speed_kmh": 8,
+        "wind_gusts_kmh": 19,
+        "wind_origin": "SO",
         "plume_arrow": "↗️",
         "plume_dir": "Nord-Est",
-        "plume_deg": 22.5,
-        "spread_risk": "🔴 ÉLEVÉ",
-        "spread_risk_color": "#EA580C",
-        "fwi_score": 8.9,
+        "plume_deg": 45,
+        "spread_risk": "🟡 MODÉRÉ",
+        "spread_risk_color": "#D97706",
+        "fwi_score": 5.3,
         "is_obs": true
       },
       "downwind_exposure": [
         {
-          "commune": "Axe Nord (0-5 km)",
+          "commune": "Axe Nord-Est (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "9 min",
+          "eta_smoke": "16 min",
           "is_sector": true
         },
         {
-          "commune": "Axe Nord (5-15 km)",
+          "commune": "Axe Nord-Est (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "28 min",
+          "eta_smoke": "47 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 8,
+          "gusts": 19,
+          "temp": 16.8,
+          "hum": 60.0
+        },
         {
           "time": "11h40",
           "wind": 16,
@@ -1809,13 +1816,6 @@
           "gusts": 20,
           "temp": 13.9,
           "hum": 71.0
-        },
-        {
-          "time": "09h45",
-          "wind": 6,
-          "gusts": 14,
-          "temp": 13.4,
-          "hum": 73.0
         }
       ]
     },
@@ -1846,7 +1846,7 @@
       "superficie": 0,
       "hero": "/medias/3070/hero.jpg",
       "region": "Pays de la Loire",
-      "minutes_ago": 113334,
+      "minutes_ago": 113347,
       "detect_time_fr": "18h45",
       "is_under_1h": false,
       "is_recent": false,
@@ -1858,16 +1858,16 @@
       "pelicandrome_eta": "35 min",
       "meteociel_station": "Le Mans",
       "meteociel_dist": 4.0,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 21.4,
-        "humidity_pct": 78.0,
+        "temp_c": 21.7,
+        "humidity_pct": 77.0,
         "wind_speed_kmh": 5,
         "wind_gusts_kmh": 9,
-        "wind_origin": "S",
+        "wind_origin": "SSE",
         "plume_arrow": "⬆️",
         "plume_dir": "Nord",
-        "plume_deg": 0,
+        "plume_deg": 337.5,
         "spread_risk": "🟢 FAIBLE",
         "spread_risk_color": "#059669",
         "fwi_score": 2.5,
@@ -1875,14 +1875,14 @@
       },
       "downwind_exposure": [
         {
-          "commune": "Axe Nord (0-5 km)",
+          "commune": "Axe Nord-Ouest (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
           "eta_smoke": "30 min",
           "is_sector": true
         },
         {
-          "commune": "Axe Nord (5-15 km)",
+          "commune": "Axe Nord-Ouest (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
           "eta_smoke": "90 min",
@@ -1891,6 +1891,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 5,
+          "gusts": 9,
+          "temp": 21.7,
+          "hum": 77.0
+        },
         {
           "time": "11h40",
           "wind": 5,
@@ -1967,13 +1974,6 @@
           "gusts": 22,
           "temp": 18.1,
           "hum": 88.0
-        },
-        {
-          "time": "09h45",
-          "wind": 6,
-          "gusts": 10,
-          "temp": 17.9,
-          "hum": 88.0
         }
       ]
     },
@@ -2004,7 +2004,7 @@
       "superficie": 0,
       "hero": "/medias/2957/hero.jpg",
       "region": "Nouvelle-Aquitaine",
-      "minutes_ago": 113616,
+      "minutes_ago": 113629,
       "detect_time_fr": "14h03",
       "is_under_1h": false,
       "is_recent": false,
@@ -2016,19 +2016,19 @@
       "pelicandrome_eta": "9 min",
       "meteociel_station": "Montemboeuf",
       "meteociel_dist": 8.9,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 24.3,
-        "humidity_pct": 59.0,
+        "temp_c": 24.6,
+        "humidity_pct": 58.0,
         "wind_speed_kmh": 26,
-        "wind_gusts_kmh": 47,
+        "wind_gusts_kmh": 45,
         "wind_origin": "SSE",
         "plume_arrow": "⬆️",
         "plume_dir": "Nord",
         "plume_deg": 337.5,
         "spread_risk": "🚨 EXTRÊME",
         "spread_risk_color": "#DC2626",
-        "fwi_score": 19.4,
+        "fwi_score": 19.1,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -2036,19 +2036,26 @@
           "commune": "Axe Nord-Ouest (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "6 min",
+          "eta_smoke": "7 min",
           "is_sector": true
         },
         {
           "commune": "Axe Nord-Ouest (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "19 min",
+          "eta_smoke": "20 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 26,
+          "gusts": 45,
+          "temp": 24.6,
+          "hum": 58.0
+        },
         {
           "time": "11h40",
           "wind": 26,
@@ -2125,13 +2132,6 @@
           "gusts": 36,
           "temp": 21.4,
           "hum": 66.0
-        },
-        {
-          "time": "09h45",
-          "wind": 22,
-          "gusts": 32,
-          "temp": 21.2,
-          "hum": 67.0
         }
       ]
     },
@@ -2162,7 +2162,7 @@
       "superficie": 0,
       "hero": "/medias/2943/hero.jpg",
       "region": "Occitanie",
-      "minutes_ago": 113732,
+      "minutes_ago": 113744,
       "detect_time_fr": "12h07",
       "is_under_1h": false,
       "is_recent": false,
@@ -2174,19 +2174,19 @@
       "pelicandrome_eta": "4 min",
       "meteociel_station": "Fanjeaux Sapc",
       "meteociel_dist": 1.5,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 22.9,
+        "temp_c": 23.1,
         "humidity_pct": 45.0,
-        "wind_speed_kmh": 14,
-        "wind_gusts_kmh": 31,
+        "wind_speed_kmh": 16,
+        "wind_gusts_kmh": 32,
         "wind_origin": "ESE",
         "plume_arrow": "↖️",
         "plume_dir": "Nord-Ouest",
         "plume_deg": 292.5,
         "spread_risk": "🔴 ÉLEVÉ",
         "spread_risk_color": "#EA580C",
-        "fwi_score": 11.2,
+        "fwi_score": 11.3,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -2194,19 +2194,26 @@
           "commune": "Axe Ouest (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "10 min",
+          "eta_smoke": "9 min",
           "is_sector": true
         },
         {
           "commune": "Axe Ouest (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "29 min",
+          "eta_smoke": "28 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 16,
+          "gusts": 32,
+          "temp": 23.1,
+          "hum": 45.0
+        },
         {
           "time": "11h40",
           "wind": 14,
@@ -2283,13 +2290,6 @@
           "gusts": 31,
           "temp": 20.9,
           "hum": 45.0
-        },
-        {
-          "time": "09h45",
-          "wind": 10,
-          "gusts": 19,
-          "temp": 20.8,
-          "hum": 45.0
         }
       ]
     },
@@ -2320,7 +2320,7 @@
       "superficie": 0,
       "hero": "/medias/2900/hero.jpg",
       "region": "PACA",
-      "minutes_ago": 114647,
+      "minutes_ago": 114659,
       "detect_time_fr": "20h52",
       "is_under_1h": false,
       "is_recent": false,
@@ -2332,16 +2332,16 @@
       "pelicandrome_eta": "9 min",
       "meteociel_station": "Isle Sur Sorgue",
       "meteociel_dist": 11.1,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 27.4,
+        "temp_c": 27.5,
         "humidity_pct": 45.0,
-        "wind_speed_kmh": 13,
-        "wind_gusts_kmh": 22,
-        "wind_origin": "SE",
-        "plume_arrow": "↖️",
-        "plume_dir": "Nord-Ouest",
-        "plume_deg": 315,
+        "wind_speed_kmh": 6,
+        "wind_gusts_kmh": 15,
+        "wind_origin": "SSE",
+        "plume_arrow": "⬆️",
+        "plume_dir": "Nord",
+        "plume_deg": 337.5,
         "spread_risk": "🔴 ÉLEVÉ",
         "spread_risk_color": "#EA580C",
         "fwi_score": 13.4,
@@ -2352,19 +2352,26 @@
           "commune": "Axe Nord-Ouest (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "14 min",
+          "eta_smoke": "20 min",
           "is_sector": true
         },
         {
           "commune": "Axe Nord-Ouest (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "41 min",
+          "eta_smoke": "60 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 6,
+          "gusts": 15,
+          "temp": 27.5,
+          "hum": 45.0
+        },
         {
           "time": "11h40",
           "wind": 13,
@@ -2441,13 +2448,6 @@
           "gusts": 18,
           "temp": 22.1,
           "hum": 45.0
-        },
-        {
-          "time": "09h45",
-          "wind": 9,
-          "gusts": 19,
-          "temp": 21.7,
-          "hum": 45.0
         }
       ]
     },
@@ -2478,7 +2478,7 @@
       "superficie": 0,
       "hero": "/medias/2884/hero.jpg",
       "region": "Île-de-France",
-      "minutes_ago": 114719,
+      "minutes_ago": 114731,
       "detect_time_fr": "19h40",
       "is_under_1h": false,
       "is_recent": false,
@@ -2490,19 +2490,19 @@
       "pelicandrome_eta": "60 min",
       "meteociel_station": "Melun",
       "meteociel_dist": 5.6,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 23.4,
-        "humidity_pct": 65.0,
-        "wind_speed_kmh": 14,
-        "wind_gusts_kmh": 18,
+        "temp_c": 24.7,
+        "humidity_pct": 59.0,
+        "wind_speed_kmh": 19,
+        "wind_gusts_kmh": 28,
         "wind_origin": "SSO",
         "plume_arrow": "↗️",
         "plume_dir": "Nord-Est",
         "plume_deg": 22.5,
-        "spread_risk": "🟡 MODÉRÉ",
-        "spread_risk_color": "#D97706",
-        "fwi_score": 6.5,
+        "spread_risk": "🔴 ÉLEVÉ",
+        "spread_risk_color": "#EA580C",
+        "fwi_score": 11.7,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -2510,19 +2510,26 @@
           "commune": "Axe Nord (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "17 min",
+          "eta_smoke": "11 min",
           "is_sector": true
         },
         {
           "commune": "Axe Nord (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "50 min",
+          "eta_smoke": "32 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 19,
+          "gusts": 28,
+          "temp": 24.7,
+          "hum": 59.0
+        },
         {
           "time": "11h40",
           "wind": 14,
@@ -2599,13 +2606,6 @@
           "gusts": 11,
           "temp": 17.2,
           "hum": 87.0
-        },
-        {
-          "time": "09h45",
-          "wind": 9,
-          "gusts": 12,
-          "temp": 16.9,
-          "hum": 87.0
         }
       ]
     },
@@ -2636,7 +2636,7 @@
       "superficie": 0,
       "hero": "/medias/2862/hero.jpg",
       "region": "Auvergne-Rhône-Alpes",
-      "minutes_ago": 114801,
+      "minutes_ago": 114813,
       "detect_time_fr": "18h18",
       "is_under_1h": false,
       "is_recent": false,
@@ -2648,39 +2648,46 @@
       "pelicandrome_eta": "2 min",
       "meteociel_station": "Antraigues",
       "meteociel_dist": 1.7,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 20.3,
+        "temp_c": 20.5,
         "humidity_pct": 45.0,
-        "wind_speed_kmh": 31,
-        "wind_gusts_kmh": 41,
-        "wind_origin": "SSE",
+        "wind_speed_kmh": 30,
+        "wind_gusts_kmh": 45,
+        "wind_origin": "S",
         "plume_arrow": "⬆️",
         "plume_dir": "Nord",
-        "plume_deg": 337.5,
-        "spread_risk": "🟡 MODÉRÉ",
-        "spread_risk_color": "#D97706",
-        "fwi_score": 9.9,
+        "plume_deg": 0,
+        "spread_risk": "🔴 ÉLEVÉ",
+        "spread_risk_color": "#EA580C",
+        "fwi_score": 10.0,
         "is_obs": true
       },
       "downwind_exposure": [
         {
-          "commune": "Axe Nord-Ouest (0-5 km)",
+          "commune": "Axe Nord (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
           "eta_smoke": "7 min",
           "is_sector": true
         },
         {
-          "commune": "Axe Nord-Ouest (5-15 km)",
+          "commune": "Axe Nord (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "22 min",
+          "eta_smoke": "20 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 30,
+          "gusts": 45,
+          "temp": 20.5,
+          "hum": 45.0
+        },
         {
           "time": "11h40",
           "wind": 31,
@@ -2757,13 +2764,6 @@
           "gusts": 47,
           "temp": 18.6,
           "hum": 45.0
-        },
-        {
-          "time": "09h45",
-          "wind": 24,
-          "gusts": 32,
-          "temp": 18.6,
-          "hum": 45.0
         }
       ]
     },
@@ -2794,7 +2794,7 @@
       "superficie": 0,
       "hero": "/medias/2812/hero.jpg",
       "region": "Grand Est",
-      "minutes_ago": 115061,
+      "minutes_ago": 115074,
       "detect_time_fr": "13h58",
       "is_under_1h": false,
       "is_recent": false,
@@ -2806,19 +2806,19 @@
       "pelicandrome_eta": "63 min",
       "meteociel_station": "St-ciergues",
       "meteociel_dist": 4.6,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 21.2,
+        "temp_c": 22.1,
         "humidity_pct": 45.0,
-        "wind_speed_kmh": 17,
-        "wind_gusts_kmh": 33,
+        "wind_speed_kmh": 14,
+        "wind_gusts_kmh": 27,
         "wind_origin": "S",
         "plume_arrow": "⬆️",
         "plume_dir": "Nord",
         "plume_deg": 0,
         "spread_risk": "🔴 ÉLEVÉ",
         "spread_risk_color": "#EA580C",
-        "fwi_score": 10.4,
+        "fwi_score": 10.8,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -2826,19 +2826,26 @@
           "commune": "Axe Nord (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "9 min",
+          "eta_smoke": "11 min",
           "is_sector": true
         },
         {
           "commune": "Axe Nord (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "27 min",
+          "eta_smoke": "33 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 14,
+          "gusts": 27,
+          "temp": 22.1,
+          "hum": 45.0
+        },
         {
           "time": "11h40",
           "wind": 17,
@@ -2915,13 +2922,6 @@
           "gusts": 22,
           "temp": 18.3,
           "hum": 45.0
-        },
-        {
-          "time": "09h45",
-          "wind": 7,
-          "gusts": 17,
-          "temp": 17.9,
-          "hum": 45.0
         }
       ]
     },
@@ -2952,7 +2952,7 @@
       "superficie": 0,
       "hero": "/medias/2638/hero.jpg",
       "region": "Corse",
-      "minutes_ago": 116488,
+      "minutes_ago": 116500,
       "detect_time_fr": "14h11",
       "is_under_1h": false,
       "is_recent": false,
@@ -2964,39 +2964,46 @@
       "pelicandrome_eta": "3 min",
       "meteociel_station": "Oletta",
       "meteociel_dist": 1.8,
-      "meteociel_time": "2026-09-29 11:30:00+02",
+      "meteociel_time": "2026-09-29 11:50:00+02",
       "weather": {
-        "temp_c": 28.3,
-        "humidity_pct": 43.0,
-        "wind_speed_kmh": 10,
-        "wind_gusts_kmh": 20,
-        "wind_origin": "S",
-        "plume_arrow": "⬆️",
-        "plume_dir": "Nord",
-        "plume_deg": 0,
-        "spread_risk": "🔴 ÉLEVÉ",
-        "spread_risk_color": "#EA580C",
-        "fwi_score": 13.2,
+        "temp_c": 29.0,
+        "humidity_pct": 41.0,
+        "wind_speed_kmh": 5,
+        "wind_gusts_kmh": 12,
+        "wind_origin": "SE",
+        "plume_arrow": "↖️",
+        "plume_dir": "Nord-Ouest",
+        "plume_deg": 315,
+        "spread_risk": "🟡 MODÉRÉ",
+        "spread_risk_color": "#D97706",
+        "fwi_score": 8.5,
         "is_obs": true
       },
       "downwind_exposure": [
         {
-          "commune": "Axe Nord (0-5 km)",
+          "commune": "Axe Nord-Ouest (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "15 min",
+          "eta_smoke": "25 min",
           "is_sector": true
         },
         {
-          "commune": "Axe Nord (5-15 km)",
+          "commune": "Axe Nord-Ouest (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "45 min",
+          "eta_smoke": "75 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "11h50",
+          "wind": 5,
+          "gusts": 12,
+          "temp": 29.0,
+          "hum": 41.0
+        },
         {
           "time": "11h40",
           "wind": 10,
@@ -3073,18 +3080,17 @@
           "gusts": 13,
           "temp": 26.5,
           "hum": 48.0
-        },
-        {
-          "time": "09h45",
-          "wind": 8,
-          "gusts": 11,
-          "temp": 25.9,
-          "hum": 50.0
         }
       ]
     }
   ],
   [
+    {
+      "title": "Temps de travail des sapeurs-pompiers volontaires : le Conseil d’État valide un régime la dérogatoire.",
+      "source": "Landot & associés",
+      "date": "Tue, 29 Sep 2026 05:30:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX1BpSFdCbEEzUTFWZ2VyWEhfX29QZldiTkZJZjRRZkdZRDNOdUstYzRVRG1FRTBQSVN0OVpid2VIOTFnanBHVllaWkxKSzE4Z29XcWhEQ014aGlwcm1KdHRJOE5oSjBNNEUzeTF6bVQyUWJGT1YtRFlMMzFWRWczM3ZEcGpmd0ZzQ09zVUZMNjVDbkZPTlFsR3VqUlF3RVF4Y2xyNjhWY1ItMVo2SWJaM1BjenpRWUpZWENCd0Q2RlhZdHVmbi1CRmt3Ulh6WEd0T1NvTDlBTEQ0UdIB3wFBVV95cUxPcXd6LUNwYUlQajNSTWstWDUxTUJxYm8zazZhdlJfOC12cTZwV0VyYzJmQzNXaGQ3YU84TmxRZHlHLXM4bkRTczAyZmhYdWlYd2xRZ3l4d2RLMmRZV3d6cFcxMWdfNHpLQllVemRxT2lxbUItOFFtYkVObUtVR3BuTUVRZExrbHpvMExyaDRhM1NtdXREbFBiTHhZeG1qVE1sM29FSGlLcDJ0emZNZTZDWmJRZDhBQWkzeVR1UUtIbEpKWWk0bG5WbXA1ckpOWVZOOXNiZ1BCNVlRdmZWVTZV?oc=5"
+    },
     {
       "title": "Essonne : les sapeurs-pompiers reçoivent 14 nouveaux véhicules",
       "source": "mesinfos",
@@ -3093,7 +3099,7 @@
     },
     {
       "title": "Sept Jeunes sapeurs-pompiers en formation au centre de secours de Noirmoutier",
-      "source": "Ouest-France",
+      "source": "ouest-france.fr",
       "date": "Tue, 29 Sep 2026 05:01:14 GMT",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSVNIaDdJWXpZNkE0YXBHRXYyZVdqdkpsV1AtZjVVR1JvRmlrdnpGTWFoa0QyVFJ4bVA2dGJqVS1LeTlXQ2pURHFoX3Vib1I1a09QR2xSSkdHZExEUlVqZlo1VWdMd1hPWF9ZWjUxdXVhOVR3VkszbFhqWFlUOTRCdFlXTnBuQVQxVXpRT3dTd1hpMDJnTUx1eW5rUHRQdnF0STl4dEZSaldqeXB0QXNFNkFFb2Q1M2w4YWJHa1B5WXh1X0ZWc3A5VEg4SXlnRkdMREJGdXVHNWVkRG5xMDhyMS1fUzVseExnR2FtclgwZ3Uydnc4QXkwWHlQeUloNjV1MWJoUlBZcENrUXZRZTRxSTRTQQ?oc=5"
     },
@@ -3140,6 +3146,12 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rTWtEQ2d1T01aMXh6WVF5djVRRHRBNWpQMVZRYjRVb25nVUZuY2g3TF9Hb3V1Vnd3NE9DREFkX3JxQWpyLXQtYm1TVnY5MGhudWhaa2xxMWRmV1ZaaVFieXdkb2ZkQTBIelgtWWxieTN5WlZ5dHlQN1JIcGw?oc=5"
     },
     {
+      "title": "À Plémet, une nouvelle convention signée pour soutenir les sapeurs-pompiers",
+      "source": "Le Télégramme",
+      "date": "Tue, 29 Sep 2026 09:42:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNG12SWVDMjY4RTVCVGNMQ3c1SGg2a2M0a190TnA1YU54QVpwWDVsc1FWNFkzZWpOM1BrajhuZTh6MkI4cWRqYlVDVDhkUGVCS3VQZGhnSl8zMzYzQzFvYllESHlKbk9kcU8yTGozeWFwSTMya1o4REctR0tXNjZoV25qNlpGR1E2MHVMMGtSZmh4RWREVHhGMzkwWkxqcDNoS2F5RjdMSU5OTDM3ZzVIdkpta0l1dnZWdVdCVXFzYnl0YmxLRzlUWTd3T2NrQlVoWlV4bjBwbmY?oc=5"
+    },
+    {
       "title": "Doubs. À l'heure du bilan, un été jugé « dramatique » pour les sapeurs-pompiers du département",
       "source": "L'Est Républicain",
       "date": "Tue, 29 Sep 2026 04:31:13 GMT",
@@ -3162,18 +3174,6 @@
       "source": "Orange Actualités",
       "date": "Tue, 29 Sep 2026 08:13:10 GMT",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOFF0YWJ6UkVvRkhPY1l5OEhEenRvSVMwY1c1SXFjcWVKZmFVbXdITjRfRnU0YThUclk1Tkt6OEZMelhwekEwU016ZUJtQzU3OVBBTXJCTFdJTnlZVFlQSUZMallNT0c4Q1ZCWkwzYTBjR29nMmRqNWdpSFVWTFdGQmQ3Mi14NFBtZXVxLXhib3pQMC1xT19IUV9FZjN5MXBsRVJhaGwyQ05KNGdjUjdIVmQ0bXBfSGhwMmdzYlRjMEVpdnV3eE5QenN2MXpFVXRQZjc1WDBON0xCMlFYa0N5N1NVcw?oc=5"
-    },
-    {
-      "title": "Puy-Guillaume : 700 repas servis par les sapeurs-pompiers lors de l'édition gastronomique au château de Montpeyroux",
-      "source": "La Montagne",
-      "date": "Tue, 29 Sep 2026 04:57:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVXkyU2FMMS0wVmM1Z0RMSXJRVXB4TlVyc01OSkpkNDhETjNWWUo3YUsxMDVIRlhOREszU0UybGlzQW4tWjN5SlR5UEU4dVdRUWV1QlEyeVpMWVFKbzhNRWlyRHlzX04tektyWTRPajhSYmdOaVRaeXcwY0lSaWZZYmczbC1YUm9FV0RrOWxQWGxDRkpRUTRqY1pfNzhxVHRKaGdlZ21fdTVZbC0yY0dWc3I4S0VlZ3Z3U1g5SnRUQ2NPS1Y5cXBTdGlwbS1vbFBDRHZ5b2lNeE5qMWZBNkJ3dzJLMjVRTXFDU0huc0xMdmtINzY4TUNnMU1PQmVYN2l4RGtfdWZ6S3I?oc=5"
-    },
-    {
-      "title": "Castéra-Verduzan. Les pompiers s’inquiètent et revendiquent",
-      "source": "ladepeche.fr",
-      "date": "Tue, 29 Sep 2026 03:16:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2ZRZ0JBRXVxYmxjZGcwNmw2MkFLRk9OQndQemp5WFZwY1JqME9HZGFNQmxfanJsVG1sZC1hUGRkeUE0RWZMZVY5LWtWc3VFODZpczJUM1RiY0FMYzdHUTFTU29oZkZpSjkxQU8wNy1wUnpOTUlraVp4eXV6a2ZSV25xRFVJdG84d0tnUFFaOHhJcEE?oc=5"
     }
   ]
 ]
