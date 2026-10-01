@@ -27,7 +27,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12914/article/hero.jpg",
       "region": "Bourgogne-Franche-Comté",
-      "minutes_ago": 2277,
+      "minutes_ago": 2282,
       "detect_time_fr": "19h28",
       "is_under_1h": false,
       "is_recent": false,
@@ -72,6 +72,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 11,
+          "gusts": 15,
+          "temp": 17.4,
+          "hum": 45.0
+        },
         {
           "time": "09h25",
           "wind": 11,
@@ -148,13 +155,6 @@
           "gusts": 19,
           "temp": 16.9,
           "hum": 45.0
-        },
-        {
-          "time": "08h30",
-          "wind": 13,
-          "gusts": 19,
-          "temp": 16.9,
-          "hum": 45.0
         }
       ]
     },
@@ -185,7 +185,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12910/article/hero.jpg",
       "region": "PACA",
-      "minutes_ago": 2372,
+      "minutes_ago": 2377,
       "detect_time_fr": "17h53",
       "is_under_1h": false,
       "is_recent": false,
@@ -230,6 +230,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 5,
+          "gusts": 8,
+          "temp": 17.2,
+          "hum": 45.0
+        },
         {
           "time": "09h25",
           "wind": 5,
@@ -306,13 +313,6 @@
           "gusts": 8,
           "temp": 17.1,
           "hum": 45.0
-        },
-        {
-          "time": "08h30",
-          "wind": 5,
-          "gusts": 8,
-          "temp": 17.1,
-          "hum": 45.0
         }
       ]
     },
@@ -343,7 +343,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12909/article/hero.jpg",
       "region": "Occitanie",
-      "minutes_ago": 2373,
+      "minutes_ago": 2378,
       "detect_time_fr": "17h52",
       "is_under_1h": false,
       "is_recent": false,
@@ -388,6 +388,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 15.5,
+          "hum": 95.0
+        },
         {
           "time": "09h25",
           "wind": 12,
@@ -464,13 +471,6 @@
           "gusts": 18,
           "temp": 15.5,
           "hum": 95.0
-        },
-        {
-          "time": "08h30",
-          "wind": 10,
-          "gusts": 18,
-          "temp": 15.5,
-          "hum": 95.0
         }
       ]
     },
@@ -501,7 +501,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12891/article/hero.jpg",
       "region": "Auvergne-Rhône-Alpes",
-      "minutes_ago": 2525,
+      "minutes_ago": 2530,
       "detect_time_fr": "15h20",
       "is_under_1h": false,
       "is_recent": false,
@@ -546,6 +546,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 11,
+          "gusts": 15,
+          "temp": 18.7,
+          "hum": 87.0
+        },
         {
           "time": "09h25",
           "wind": 11,
@@ -622,13 +629,6 @@
           "gusts": 25,
           "temp": 18.6,
           "hum": 89.0
-        },
-        {
-          "time": "08h30",
-          "wind": 12,
-          "gusts": 21,
-          "temp": 18.6,
-          "hum": 89.0
         }
       ]
     },
@@ -659,7 +659,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12889/article/hero.jpg",
       "region": "Occitanie",
-      "minutes_ago": 2606,
+      "minutes_ago": 2611,
       "detect_time_fr": "13h59",
       "is_under_1h": false,
       "is_recent": false,
@@ -711,6 +711,13 @@
         }
       ],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 14,
+          "gusts": 19,
+          "temp": 19.4,
+          "hum": 92.0
+        },
         {
           "time": "09h25",
           "wind": 14,
@@ -787,13 +794,6 @@
           "gusts": 19,
           "temp": 19.3,
           "hum": 94.0
-        },
-        {
-          "time": "08h30",
-          "wind": 15,
-          "gusts": 19,
-          "temp": 19.3,
-          "hum": 94.0
         }
       ]
     },
@@ -824,7 +824,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12840/article/hero.jpg",
       "region": "PACA",
-      "minutes_ago": 3905,
+      "minutes_ago": 3911,
       "detect_time_fr": "16h19",
       "is_under_1h": false,
       "is_recent": false,
@@ -869,6 +869,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 5,
+          "gusts": 12,
+          "temp": 18.6,
+          "hum": 94.0
+        },
         {
           "time": "09h25",
           "wind": 5,
@@ -945,13 +952,6 @@
           "gusts": 22,
           "temp": 18.3,
           "hum": 95.0
-        },
-        {
-          "time": "08h30",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 18.3,
-          "hum": 95.0
         }
       ]
     },
@@ -982,7 +982,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12833/article/hero.jpg",
       "region": "Nouvelle-Aquitaine",
-      "minutes_ago": 3954,
+      "minutes_ago": 3959,
       "detect_time_fr": "15h31",
       "is_under_1h": false,
       "is_recent": false,
@@ -1027,6 +1027,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 16.8,
+          "hum": 97.0
+        },
         {
           "time": "09h25",
           "wind": 12,
@@ -1103,13 +1110,6 @@
           "gusts": 22,
           "temp": 16.5,
           "hum": 97.0
-        },
-        {
-          "time": "08h30",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 16.5,
-          "hum": 97.0
         }
       ]
     },
@@ -1140,7 +1140,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12804/article/hero.jpg",
       "region": "Auvergne-Rhône-Alpes",
-      "minutes_ago": 5148,
+      "minutes_ago": 5154,
       "detect_time_fr": "19h36",
       "is_under_1h": false,
       "is_recent": false,
@@ -1185,6 +1185,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 14.2,
+          "hum": 100.0
+        },
         {
           "time": "09h25",
           "wind": 12,
@@ -1261,13 +1268,6 @@
           "gusts": 22,
           "temp": 14.1,
           "hum": 100.0
-        },
-        {
-          "time": "08h30",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 14.1,
-          "hum": 100.0
         }
       ]
     },
@@ -1298,7 +1298,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12722/article/hero.jpg",
       "region": "Auvergne-Rhône-Alpes",
-      "minutes_ago": 6849,
+      "minutes_ago": 6854,
       "detect_time_fr": "15h16",
       "is_under_1h": false,
       "is_recent": false,
@@ -1343,6 +1343,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 16.3,
+          "hum": 100.0
+        },
         {
           "time": "09h25",
           "wind": 12,
@@ -1419,13 +1426,6 @@
           "gusts": 22,
           "temp": 16.4,
           "hum": 100.0
-        },
-        {
-          "time": "08h30",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 16.4,
-          "hum": 100.0
         }
       ]
     },
@@ -1456,7 +1456,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12662/article/hero.jpg",
       "region": "Occitanie",
-      "minutes_ago": 8247,
+      "minutes_ago": 8253,
       "detect_time_fr": "15h57",
       "is_under_1h": false,
       "is_recent": false,
@@ -1501,6 +1501,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 9,
+          "gusts": 18,
+          "temp": 15.0,
+          "hum": 87.0
+        },
         {
           "time": "09h25",
           "wind": 9,
@@ -1577,13 +1584,6 @@
           "gusts": 16,
           "temp": 14.7,
           "hum": 90.0
-        },
-        {
-          "time": "08h30",
-          "wind": 9,
-          "gusts": 16,
-          "temp": 14.7,
-          "hum": 90.0
         }
       ]
     },
@@ -1614,7 +1614,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12600/article/hero.jpg",
       "region": "Occitanie",
-      "minutes_ago": 9836,
+      "minutes_ago": 9842,
       "detect_time_fr": "13h28",
       "is_under_1h": false,
       "is_recent": false,
@@ -1652,6 +1652,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 10.7,
+          "hum": 100.0
+        },
         {
           "time": "09h25",
           "wind": 12,
@@ -1728,13 +1735,6 @@
           "gusts": 22,
           "temp": 10.7,
           "hum": 100.0
-        },
-        {
-          "time": "08h30",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 10.7,
-          "hum": 100.0
         }
       ]
     },
@@ -1765,7 +1765,7 @@
       "superficie": 0,
       "hero": "https://fdfdata.fr/storage/signalements/12565/article/hero.jpg",
       "region": "Occitanie",
-      "minutes_ago": 11105,
+      "minutes_ago": 11110,
       "detect_time_fr": "16h20",
       "is_under_1h": false,
       "is_recent": false,
@@ -1810,6 +1810,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 10.4,
+          "hum": 95.0
+        },
         {
           "time": "09h25",
           "wind": 12,
@@ -1886,13 +1893,6 @@
           "gusts": 22,
           "temp": 10.1,
           "hum": 98.0
-        },
-        {
-          "time": "08h30",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 10.1,
-          "hum": 98.0
         }
       ]
     },
@@ -1923,7 +1923,7 @@
       "superficie": 0,
       "hero": "/medias/3070/hero.jpg",
       "region": "Pays de la Loire",
-      "minutes_ago": 116080,
+      "minutes_ago": 116085,
       "detect_time_fr": "18h45",
       "is_under_1h": false,
       "is_recent": false,
@@ -1968,6 +1968,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 7,
+          "gusts": 12,
+          "temp": 14.5,
+          "hum": 96.0
+        },
         {
           "time": "09h25",
           "wind": 7,
@@ -2044,13 +2051,6 @@
           "gusts": 22,
           "temp": 13.1,
           "hum": 98.0
-        },
-        {
-          "time": "08h30",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 13.1,
-          "hum": 98.0
         }
       ]
     },
@@ -2081,7 +2081,7 @@
       "superficie": 0,
       "hero": "/medias/2957/hero.jpg",
       "region": "Nouvelle-Aquitaine",
-      "minutes_ago": 116362,
+      "minutes_ago": 116367,
       "detect_time_fr": "14h03",
       "is_under_1h": false,
       "is_recent": false,
@@ -2126,6 +2126,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 15.7,
+          "hum": 98.0
+        },
         {
           "time": "09h25",
           "wind": 12,
@@ -2202,13 +2209,6 @@
           "gusts": 22,
           "temp": 15.5,
           "hum": 98.0
-        },
-        {
-          "time": "08h30",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 15.5,
-          "hum": 98.0
         }
       ]
     },
@@ -2239,7 +2239,7 @@
       "superficie": 0,
       "hero": "/medias/2943/hero.jpg",
       "region": "Occitanie",
-      "minutes_ago": 116477,
+      "minutes_ago": 116483,
       "detect_time_fr": "12h07",
       "is_under_1h": false,
       "is_recent": false,
@@ -2255,7 +2255,7 @@
       "weather": {
         "temp_c": 17.5,
         "humidity_pct": 45.0,
-        "wind_speed_kmh": 9,
+        "wind_speed_kmh": 8,
         "wind_gusts_kmh": 18,
         "wind_origin": "O",
         "plume_arrow": "➡️",
@@ -2284,6 +2284,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 8,
+          "gusts": 18,
+          "temp": 17.5,
+          "hum": 45.0
+        },
         {
           "time": "09h25",
           "wind": 9,
@@ -2360,13 +2367,6 @@
           "gusts": 19,
           "temp": 17.5,
           "hum": 45.0
-        },
-        {
-          "time": "08h30",
-          "wind": 9,
-          "gusts": 19,
-          "temp": 17.5,
-          "hum": 45.0
         }
       ]
     },
@@ -2397,7 +2397,7 @@
       "superficie": 0,
       "hero": "/medias/2900/hero.jpg",
       "region": "PACA",
-      "minutes_ago": 117392,
+      "minutes_ago": 117397,
       "detect_time_fr": "20h52",
       "is_under_1h": false,
       "is_recent": false,
@@ -2442,6 +2442,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 20.2,
+          "hum": 45.0
+        },
         {
           "time": "09h25",
           "wind": 12,
@@ -2518,13 +2525,6 @@
           "gusts": 22,
           "temp": 19.3,
           "hum": 45.0
-        },
-        {
-          "time": "08h30",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 19.3,
-          "hum": 45.0
         }
       ]
     },
@@ -2555,7 +2555,7 @@
       "superficie": 0,
       "hero": "/medias/2884/hero.jpg",
       "region": "Île-de-France",
-      "minutes_ago": 117464,
+      "minutes_ago": 117469,
       "detect_time_fr": "19h40",
       "is_under_1h": false,
       "is_recent": false,
@@ -2569,17 +2569,17 @@
       "meteociel_dist": 5.6,
       "meteociel_time": "2026-10-01 09:20:00+02",
       "weather": {
-        "temp_c": 16.6,
+        "temp_c": 16.9,
         "humidity_pct": 98.0,
-        "wind_speed_kmh": 11,
-        "wind_gusts_kmh": 16,
-        "wind_origin": "OSO",
-        "plume_arrow": "➡️",
-        "plume_dir": "Est",
-        "plume_deg": 67.5,
+        "wind_speed_kmh": 10,
+        "wind_gusts_kmh": 14,
+        "wind_origin": "SO",
+        "plume_arrow": "↗️",
+        "plume_dir": "Nord-Est",
+        "plume_deg": 45,
         "spread_risk": "🟢 FAIBLE",
         "spread_risk_color": "#059669",
-        "fwi_score": 2.7,
+        "fwi_score": 2.4,
         "is_obs": true
       },
       "downwind_exposure": [
@@ -2587,19 +2587,26 @@
           "commune": "Axe Nord-Est (0-5 km)",
           "dept": "",
           "dist_km": 5.0,
-          "eta_smoke": "19 min",
+          "eta_smoke": "21 min",
           "is_sector": true
         },
         {
           "commune": "Axe Nord-Est (5-15 km)",
           "dept": "",
           "dist_km": 15.0,
-          "eta_smoke": "56 min",
+          "eta_smoke": "64 min",
           "is_sector": true
         }
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 10,
+          "gusts": 14,
+          "temp": 16.9,
+          "hum": 98.0
+        },
         {
           "time": "09h25",
           "wind": 11,
@@ -2676,13 +2683,6 @@
           "gusts": 21,
           "temp": 15.5,
           "hum": 100.0
-        },
-        {
-          "time": "08h30",
-          "wind": 13,
-          "gusts": 21,
-          "temp": 15.5,
-          "hum": 100.0
         }
       ]
     },
@@ -2713,7 +2713,7 @@
       "superficie": 0,
       "hero": "/medias/2862/hero.jpg",
       "region": "Auvergne-Rhône-Alpes",
-      "minutes_ago": 117546,
+      "minutes_ago": 117551,
       "detect_time_fr": "18h18",
       "is_under_1h": false,
       "is_recent": false,
@@ -2758,6 +2758,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 23,
+          "gusts": 32,
+          "temp": 16.5,
+          "hum": 45.0
+        },
         {
           "time": "09h25",
           "wind": 23,
@@ -2834,13 +2841,6 @@
           "gusts": 18,
           "temp": 16.4,
           "hum": 45.0
-        },
-        {
-          "time": "08h30",
-          "wind": 15,
-          "gusts": 18,
-          "temp": 16.4,
-          "hum": 45.0
         }
       ]
     },
@@ -2871,7 +2871,7 @@
       "superficie": 0,
       "hero": "/medias/2812/hero.jpg",
       "region": "Grand Est",
-      "minutes_ago": 117807,
+      "minutes_ago": 117812,
       "detect_time_fr": "13h58",
       "is_under_1h": false,
       "is_recent": false,
@@ -2916,6 +2916,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 8,
+          "gusts": 13,
+          "temp": 16.9,
+          "hum": 45.0
+        },
         {
           "time": "09h25",
           "wind": 8,
@@ -2992,13 +2999,6 @@
           "gusts": 22,
           "temp": 16.6,
           "hum": 45.0
-        },
-        {
-          "time": "08h30",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 16.6,
-          "hum": 45.0
         }
       ]
     },
@@ -3029,7 +3029,7 @@
       "superficie": 0,
       "hero": "/medias/2638/hero.jpg",
       "region": "Corse",
-      "minutes_ago": 119233,
+      "minutes_ago": 119239,
       "detect_time_fr": "14h11",
       "is_under_1h": false,
       "is_recent": false,
@@ -3074,6 +3074,13 @@
       ],
       "news_items": [],
       "history_points": [
+        {
+          "time": "09h30",
+          "wind": 12,
+          "gusts": 22,
+          "temp": 24.1,
+          "hum": 68.0
+        },
         {
           "time": "09h25",
           "wind": 12,
@@ -3146,13 +3153,6 @@
         },
         {
           "time": "08h35",
-          "wind": 12,
-          "gusts": 22,
-          "temp": 18.7,
-          "hum": 87.0
-        },
-        {
-          "time": "08h30",
           "wind": 12,
           "gusts": 22,
           "temp": 18.7,
